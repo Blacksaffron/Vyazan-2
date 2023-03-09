@@ -1,0 +1,158 @@
+*{
+    
+}
+.body{
+
+    background: #f2f3f4;
+}
+.row{
+    margin-left: 50px;
+}
+
+h1,h2,h3,h4,h5,h6,p,a{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color:#1C211D;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+
+}
+
+
+
+.card-name{
+    text-decoration: underline;
+    font-size: 25px;
+    line-height: 30.48px;
+}
+
+
+.price{
+    font-size: 20px;
+    line-height: 24.38px;
+    margin-bottom: 35px;
+}
+
+.text-content{
+    font-size: 21px;
+    line-height: 26px;
+    letter-spacing: 0em;
+}
+
+.text-content{
+    margin-top: 25px;
+    width: 375px;
+    margin-bottom: 70px;
+}
+
+h2{
+    font-size: 35px;
+    text-transform: uppercase;
+    line-height: 43px;
+    letter-spacing: 0em;
+    margin-top: 70px;
+    margin-left: 65px;
+    margin-bottom: 30px;
+}
+
+.text-for-card{
+    margin-left: 65px;
+    font-size: 21px;
+    line-height: 26px;
+    letter-spacing: 0em;
+    margin-bottom: 40px;
+    width: 750px;
+}
+
+.header{
+    background: url(../assets/images/mukuko-studio-mU88MlEFcoU-unsplash\ 2.png) center no-repeat;
+    background-size:cover;
+    padding: 0 62px 0 62px;
+    margin-bottom: 16px;
+
+
+
+}
+.header-inner{
+    display: flex;
+    padding: 60px 0 120px 0;
+    
+}
+
+.logo{
+ 
+    margin-top: 10px;
+    margin-right: -2%;
+}
+
+
+
+.btn{
+    font-size: 18px;
+}
+
+li{
+    display: inline;
+
+}
+
+
+
+.nbr{
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0em;
+    margin-left: 26.2%;
+
+}
+
+
+.monohrom{
+    text-align: left;
+    width: 1000px;
+    padding-bottom: 100px;
+
+}
+.text{
+    width: 504px;
+    text-align: left;
+    margin: 0;
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.new-collection{
+    margin-bottom: 0px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+h1{
+    margin-bottom: 20px;
+    font-family: Montserrat;
+    font-size: 76px;
+    font-weight: 300;
+    line-height: 93px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.text{
+    margin-bottom: 25px;
+}
+
+
+.footer{
+    margin-left: 50px;
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
